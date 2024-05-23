@@ -59,7 +59,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>apiproduto</finalName>
+		<finalName>apiprodutoaws</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

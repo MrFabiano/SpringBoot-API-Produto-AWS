@@ -13,10 +13,10 @@ public class Produto {
     @Id
     private Long id;
     @Column
-    private String nome;
+    private String name;
     @Column
-    private BigDecimal valor;
+    private BigDecimal price;
     @Column
-    private String descricao;
+    private String description;
 
 }

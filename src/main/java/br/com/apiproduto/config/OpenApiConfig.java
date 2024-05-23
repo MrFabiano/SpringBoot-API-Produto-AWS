@@ -14,6 +14,6 @@ public class OpenApiConfig {
                 .info(new Info()
                         .title("API PRODUTO")
                         .description("API PRODUTO CLOUD AWS")
-                        .version("1.8.8"));
+                        .version("1.0.0"));
     }
 }
